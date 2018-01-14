@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Welcome to VN.
+=======
+<<<<<<< .merge_file_a00408
+Hello, everybody
+=======
+Hello, Welcome to VN.
+>>>>>>> .merge_file_a04644
+>>>>>>> master
